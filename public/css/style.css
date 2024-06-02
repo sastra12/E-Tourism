@@ -1,0 +1,41 @@
+:root {
+    --footer: #408a8a;
+}
+
+.content-box p {
+    color: black;
+}
+
+.hero .content-box {
+    padding: 20px;
+}
+
+/* Section Sevice */
+
+.card-service h5,
+p {
+    color: black;
+    opacity: 80%;
+}
+
+.card-service i {
+    color: white;
+    font-size: 24px;
+    text-align: left;
+}
+
+/* Footer */
+footer {
+    margin-top: 100px;
+    background-color: var(--footer);
+}
+footer h3,
+p {
+    color: white;
+}
+
+footer .social-icon i {
+    font-size: 24px;
+    margin-right: 28px;
+    color: white;
+}
